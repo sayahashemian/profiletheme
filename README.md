@@ -28,7 +28,7 @@ This project merges my passion for deep learning with my interest in bioinformat
 ## Programming Languages & Tools:
 <div display="flex">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/cpp%20-%2300599C.svg?&style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
