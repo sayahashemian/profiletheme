@@ -1,28 +1,17 @@
-# Hi there! 👋 I'm Kiarash
+# Hi there! 👋 I'm Saya
 
-I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning and its applications in bioinformatics. Currently, I'm working at the Computational Biology Research Center (CBRC), where I'm excited to contribute to cutting-edge projects that bridge the gap between computer science and life sciences.
+I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning. Currently, I'm working at the Computational Biology Research Center (CBRC), where I'm excited to contribute to cutting-edge projects that bridge the gap between computer science and life sciences.
 
 ## 🌱 Interests
 
 - 🧠 Deep Learning Enthusiast
-- 🧬 Bioinformatics and Computational Biology
-- 🖥️ Artificial Intelligence and Machine Learning
-- 💻 Coding and Problem Solving
+- 🖥️ Optimization in Machine Learning
+- 💻 Natural Language Processing
 
-## 💼 Current Work
-
-Currently, I'm focused on an exciting project at CBRC where I'm leveraging the power of Generative Adversarial Networks (GANs) to optimize drug candidates. My work involves:
-
-- 🧪 Designing GAN architectures tailored for drug molecule generation
-- 🧬 Generating novel molecular structures with desired properties
-- 📈 Collaborating with domain experts to fine-tune GAN outputs for practical applications
   
-This project merges my passion for deep learning with my interest in bioinformatics, offering a unique opportunity to contribute to innovative advancements in drug discovery.
-
 ## 📚 Education
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science at Amirkabir University
-- 📚 Exploring advanced courses in machine learning, data science, and bioinformatics
+- 🎓 Graduate in Computer Science at Amirkabir University
 
 ## 🚀 Skills
 
@@ -31,10 +20,7 @@ This project merges my passion for deep learning with my interest in bioinformat
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />    
   </div>
   <br/>
 
@@ -64,8 +50,7 @@ This project merges my passion for deep learning with my interest in bioinformat
 
   ### 💻 OS:
   <div display="flex">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </div>
   <br/>
   
@@ -74,10 +59,10 @@ This project merges my passion for deep learning with my interest in bioinformat
 Let's connect and learn from each other! Feel free to reach out on:
 
 <div display="flex">
-    <a href="https://www.linkedin.com/in/kiarash-mokhtari-17a4371a4/">
+    <a href="https://www.linkedin.com/in/saya-hashemian-84a292238">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
     </a>
-    <a href="mailto:mokhtarikiarash@gmail.com">
+    <a href="mailto:sayahashemian@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail">
     </a>
 </div>
